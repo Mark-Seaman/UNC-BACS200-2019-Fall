@@ -9,6 +9,7 @@
 
 ### Requirements
 * Primary goal
+    * Build a marketing website for a non-profit agency
 * Priorities - Time, Money, Function
 * Top 10 objectives
 * Customer interactions
