@@ -1,0 +1,22 @@
+# Skill #6 - Developer Tools
+
+* Developer tools show you many details about the currently loaded page.
+* In Firefox use menu "Tools, Web Developer, Toggle Tools" or hit F12
+* Right click on some HTML element on the page, choose "Inspect Element"
+
+
+## Demonstrate Your Skill
+
+### devtools.png
+
+This screen shot shows ...
+
+* Developer tools
+
+
+<a href="{{ skills }}/devtools.png">
+    Click Here to see full size
+    <img src="{{ skills }}/devtools.png" width="200" target="_blank">
+</a>
+
+See [Instructor's Solution](https://unco-bacs.org/bacs200/skills/devtools.png) for an example

@@ -1,0 +1,117 @@
+# Lesson 10 - Lists & Tables
+
+* UNC - BACS 200
+* Wednesday, Sep 18
+* Mark Seaman
+
+---
+
+![](img/Bear.200.png)
+
+## LEARN
+
+![](img/Bear_Logo.png)
+
+---
+
+### Review
+* Development Skills
+
+### Today
+* Github Version Control
+* Project #4
+* Zybooks - 12.9 - Strings
+
+
+---
+
+### Seaman's Rules
+* Rule #10: Focus of core activities
+    * Learn
+    * Plan
+    * Build
+    * Teach
+
+
+### Bullet List
+* Bullet Lists are added with the "ul" element (Unordered List)
+* Each list item is added with the "li" element (List Item)
+
+```
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+</ul>
+```
+
+
+### Numbered List
+* Bullet Lists are added with the "ol" element (Ordered List)
+* Each list item is added with the "li" element (List Item)
+
+```
+<ol>
+    <li>Item 1</li>
+    <li>Item 2</li>
+</ol>
+```
+
+
+### table
+* Tables are added with the "table" element
+
+```
+<table>
+    ...
+</table>
+```
+
+
+### tr
+* Table rows are added with the "tr" element
+
+```
+<table>
+    <tr>
+        ...
+    </tr>
+</table>
+```
+
+
+### td
+* Table columns are added with the "td" element (Table Data)
+
+```
+<table>
+    <tr>
+        <td>This is some data</td>
+    </tr>
+</table>
+```
+
+
+### Practice Lists & Tables
+* Project #4 requires you to build a list and a table
+* It also requires knowledge of images and hyperlinks
+
+
+---
+
+## BUILD
+
+![](img/Bear_Logo.png)
+
+---
+
+### Project #4 - Project Planner
+* Follow instructions for [Project #4](/bacs200/project/04)
+
+
+### Instructor Code Sample
+* Visit the [Demo Server](https://unco-bacs.org/bacs200/project)
+* View Page Source and copy
+
+
+### See you next time
+

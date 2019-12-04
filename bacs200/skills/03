@@ -1,0 +1,79 @@
+# Skill #3 - Brackets Setup
+
+Skill Demonstration Challenge
+
+---
+
+## Objective
+
+Demonstrate that Brackets is properly configured for development
+
+* Brackets is pinned to Start Bar
+* Open Folder is set up
+* Beatify extension is active
+
+
+## Steps
+
+### Pin Brackets
+* Click on Start Menu and type "Brackets"
+* Pin Brackets to Windows Start Menu Bar
+    * Right-click on Brackets Icon
+    * Choose Pin
+
+
+### Open Folder
+* The "Open Folder" feature is powerful so use it
+* One the right side-panel select Open Folder
+* Browse to your BACS 200 code
+* Remove the "Getting Started" menu item by clicking on the "x"
+
+    
+### Setup Brackets with Beautify
+* Install Beatify Extension
+    * File menu, Extension Manager
+    * Search for Beatify
+    * Install button
+
+
+### Using Beautify
+* Edit menu, Beatify
+* Enable on Save for automatic indents
+
+
+### Create New File
+* Paste in this funky code and use Beautify to fix indenting
+
+```
+    <!DOCTYPE html>
+        <html lang="en">
+        <head>
+        <meta charset="UTF-8">
+    <title>Basic Page Template</title>
+        </head>
+        <body>
+    <h1>Basic Page Template</h1>
+        <p>This is a very simple page to show how to create an HTML file.</p>
+    <p>To see the HTML Code select menu item "Tools, Web Developer, Page Source" or "Ctrl-U".</p>
+            </body>
+                    </html>
+```
+
+
+
+## Demonstrate Your Skill
+
+### Take a screen shot
+
+This screen shot shows ...
+
+* Brackets is pinned to start bar
+* Sample code is automatically formatted
+* Open Folder is set to point to your BACS 200 code
+
+<a href="{{ skills }}/brackets.png">
+    Click Here to see full size
+    <img src="{{ skills }}/brackets.png" width="200" target="_blank">
+</a>
+
+See [Instructor's Solution](https://unco-bacs.org/bacs200/skills/brackets.png) for an example

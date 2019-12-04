@@ -1,0 +1,63 @@
+# Project #4 - Project Planner
+
+## Goals
+
+Build a class planner page that support your development efforts.
+
+
+### Learning Goals
+* Images
+* Hyperlinks
+* Lists
+* Tables
+
+
+### Demonstrated Skills
+
+* Skill 3 - Brackets
+
+
+## Project Requirements
+
+### File Structure
+
+* bacs200/
+    * index.html
+    * inspire.html
+    * amuse.html
+    * project/
+        * index.html
+    * skills/
+        * index.html
+        * bluehost.png
+        * wordpress.png
+        * ftp-site-manager.png
+        * ftp-dirs.png
+        * ftp-files.png
+        * ... more images
+
+
+### Content of bacs200/index.html
+
+* Headline: "Your Name" Home Page
+* Profile Photo
+* Sensei Class Website Links
+    * Sensei Home Page link
+    * Skills link
+    * Projects link
+    * Canvas
+
+
+### Content of bacs200/project/index.html
+
+* Headline: "Your Name" Project Planner
+* Table of Projects (instructions link, my page link)
+* To Do List (bullet list with 10 items)
+* Accomplished (completed items with date done)
+
+
+### Instructor Code Sample
+* Visit the [Demo Server](https://unco-bacs.org/bacs200/project)
+* View Page Source and copy
+
+

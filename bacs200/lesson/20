@@ -1,0 +1,124 @@
+# Lesson 20 - Bootstrap
+
+
+* UNC - BACS 200
+* Monday, Oct 14
+* Mark Seaman
+
+---
+
+## LEARN
+
+![](img/Bear_Logo.png)
+
+---
+
+
+### Assignments
+* Grade reading on Monday, projects on Wednesday
+* Check grades (send email for any issues you might have)  
+* Complete any late work you have (you will get partial credit)
+
+
+### Review
+* [Skill #7 - New Page Templates](/unc/bacs200/skills/07)
+* [Project #7 - Wanted Poster](/unc/bacs200/project/07)
+* Lessons
+    * CSS Properties
+    * Page Layout
+    * Page Navigation with Menus
+    * Templates for new pages (newpage, article, menu)
+ 
+
+### Today
+* Reading - 4.6 Box Model HTML Containers
+* [Project #8 - Blog Layout](/unc/bacs200/project/08)
+* [Demo #20  - Using Bootstrap](https://unco-bacs.org/bacs200/demo/20/bootstrap.html)
+* [Skill #8   - Using Bootstrap](/unc/bacs200/skills/08)
+
+
+---
+
+### Seaman's Rules
+* Rule #20 - Learn from Mistakes
+    * Make new mistakes each time
+    * Build in early detection and defenses
+
+---
+
+
+### Bootstrap
+The fast way to get great style
+
+* Created by Twitter
+* Reusable stylesheets for a standard look
+* Incredible productivity
+
+
+### Sample Page
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Bootstrap</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" 
+            href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    </head>
+    <body>
+        <h1>Bootstrap Saves You Time</h1>
+        <p>Create your pages quickly with a standard look that make your readers feel
+        comfortable</p>
+    </body>
+</html>
+```
+
+
+### Find Bootstrap
+* Google Bootstrap
+* Go to website
+* Select examples
+* Select jumbotron
+
+
+### Copy source code
+* View the source on the page
+* Copy all the source code
+* Paste into "bacs200/bootstrap.html"
+* Fix up all links in file
+
+
+### Customize the style
+* Make the page header have white text on a dark green background
+* Test the responsive design by resizing the page
+* Make the secondary headings dark green
+* Use the UNC favicon
+* Replace the bogus text with your own
+
+
+### Add Bootstrap library to your home page
+* Include the Bootsrap CSS library before your custom CSS
+* This lets you override with your own styles
+* Now remove some style from your stylesheet to make sure that the Bootstrap style prevails
+
+
+---
+
+## BUILD
+
+![](img/Bear_Logo.png)
+
+---
+
+### Demo Code
+* [Demo #20  - Using Bootstrap](https://unco-bacs.org/bacs200/demo/20/bootstrap.html)
+* Visit the Bootstrap website
+* Learn about Bootstrap
+
+
+### Build your own page template
+* [Skill #8   - Using Bootstrap](/unc/bacs200/skills/08)
+* Create your own custom page template using Bootstrap
+

@@ -1,0 +1,57 @@
+# Project #5 - Study Guide
+    
+## Goals
+
+Build a study guide for the Exam.
+
+
+### Learning Goals
+* Hyperlinks
+* Lists
+* Tables
+
+
+### Demonstrated Skills
+
+* [Skill 4 - URL Game](/unc/bacs200/skills/04)
+* [Skill 5 - HTML Validator](/unc/bacs200/skills/05)
+
+
+## Project Requirements
+
+### File Structure
+
+* bacs200/
+    * index.html
+    * inspire.html
+    * amuse.html
+    * project/
+        * index.html
+    * skills/
+        * index.html
+        * bluehost.png
+        * wordpress.png
+        * ftp-site-manager.png
+        * ftp-dirs.png
+        * ftp-files.png
+        * ... more images
+
+
+### Requirements of **bacs200/index.html**
+
+* Headline: "Your Name" Home Page
+* Profile Photo (size of 200px)
+* Sensei Class Website Links
+    * Sensei Home Page link
+    * Skills link
+    * Projects link
+    * Canvas
+
+
+### Requirements of **bacs200/study_guide.html**
+
+* Headline: "BACS 200 Study Guide"
+* Table of Projects (instructions link, student project page link)
+* Table of Skills (instructions link, image links)
+* Table of Lessons (links to lessons,  notes about each lesson)
+

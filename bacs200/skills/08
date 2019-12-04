@@ -1,0 +1,67 @@
+# Skill #8 - Using Bootstrap
+
+Skill Demonstration Challenge
+
+---
+
+## Instructions
+
+### Objective
+
+Demonstrate how to use Bootstrap to quickly style your web pages.
+
+
+### Steps
+
+* Copy the template from 
+[Demo #20  - Using Bootstrap](https://unco-bacs.org/bacs200/demo/20/bootstrap.html)
+* Build your own page template "bacs200/bootstrap.html"
+* Customize this page template with some boilerplate code for new pages
+* Copy the template from 
+[Demo #21  - Tab Views](https://unco-bacs.org/bacs200/demo/21/index.html)
+* Build your own page template "bacs200/tabs.html"
+* Customize this page template with some boilerplate code for new pages
+* Login to the Sensei Homework Dashboard and view your work in the Skills section
+
+
+### Requirements
+
+* Screen shot "bacs200/skills/bootstrap.png"
+
+
+## Demonstrate Your Skill
+
+### bootstrap.png
+
+This screen shot shows your page template that uses the Bootstrap style.
+
+<a href="{{ skills }}/bootstrap.png">
+    Click Here to see full size
+    <img src="{{ skills }}/bootstrap.png" width="200" target="_blank">
+</a>
+
+See [Instructor's Solution](https://unco-bacs.org/bacs200/skills/bootstrap.png) for an example
+
+
+### tabs.png
+
+This screen shot shows your page template that uses the Bootstrap Tabbed View.
+
+<a href="{{ skills }}/tabs.png">
+    Click Here to see full size
+    <img src="{{ skills }}/tabs.png" width="200" target="_blank">
+</a>
+
+See [Instructor's Solution](https://unco-bacs.org/bacs200/skills/tabs.png) for an example
+
+
+### accordion.png
+
+This screen shot shows your page template that uses the Bootstrap Accordion View.
+
+<a href="{{ skills }}/accordion.png">
+    Click Here to see full size
+    <img src="{{ skills }}/accordion.png" width="200" target="_blank">
+</a>
+
+See [Instructor's Solution](https://unco-bacs.org/bacs200/skills/accordion.png) for an example

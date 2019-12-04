@@ -1,0 +1,57 @@
+# Skill #9 - Version Control
+
+Skill Demonstration Challenge
+
+---
+
+## Instructions
+
+### Objective
+
+Demonstrate that you can setup and use Github
+
+
+### Steps
+
+* View Details at [Lesson 23](/unc/bacs200/lesson/23) 
+* Register for Github account
+* Create a Github repository
+* Setup Github Desktop
+* Clone Your Repo 
+* Commit changes
+    
+
+## Demonstrate Your Skill
+
+
+### git-files.png
+* This screen shot "bacs200/skills/git-files.png" shows ...
+* The file structure that is transferred with Filezilla
+* NOTE: You do not want to transfer the .git directory to Bluehost
+* <a href="{{ skills }}/git-files.png">
+    Click Here to see full size
+    <img src="{{ skills }}/git-files.png" width="200" target="_blank">
+</a>
+* See [Instructor's Solution](https://unco-bacs.org/bacs200/skills/git-files.png) for an example
+
+
+### git-changes.png
+* This screen shot "bacs200/skills/git-changes.png" shows ...
+* Pending changes that you made to your code
+* Show the specific lines of code being changed
+* <a href="{{ skills }}/git-changes.png">
+    Click Here to see full size
+    <img src="{{ skills }}/git-changes.png" width="200" target="_blank">
+</a>
+* See [Instructor's Solution](https://unco-bacs.org/bacs200/skills/git-changes.png) for an example
+
+
+### git-push.png
+* This screen shot "bacs200/skills/git-push.png" shows ...
+* Show the changes that are about to be pushed to Github
+* <a href="{{ skills }}/git-push.png">
+    Click Here to see full size
+    <img src="{{ skills }}/git-push.png" width="200" target="_blank">
+</a>
+* See [Instructor's Solution](https://unco-bacs.org/bacs200/skills/git-push.png) for an example
+

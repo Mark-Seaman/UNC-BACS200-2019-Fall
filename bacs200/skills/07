@@ -1,0 +1,74 @@
+# Skill #7 - New Page Template
+
+Skill Demonstration Challenge
+
+---
+
+## Instructions
+
+### Objective
+
+Demonstrate template for creating new HTML files 
+
+
+### Steps
+
+* Copy code from "https://unco-bacs.org/bacs200/demo/18 & 19" 
+    * To "newpage.html"
+    * To "article.html"
+    * To "menu.html"
+* Customize this file to meet your needs
+* Use the stylesheet created for your home page
+* Produce your own look a feel (do not use mine)
+* Login to the Sensei Homework Dashboard and test your work
+* Create a screen shot
+
+
+### Requirements
+
+Your page should have a unique version of these requirements
+
+* Banner with logo and title and colored background or image
+* Custom CSS file 
+* Accent color for h1, h2
+* Background color for full page
+* Background image and surround for main area
+* Custom footer with copyright signature
+
+
+## Demonstrate Your Skill
+
+### newpage.png
+
+This screen shot shows a page that you create using a copy of the template with no further handmade modifications.
+
+<a href="{{ skills }}/newpage.png">
+    Click Here to see full size
+    <img src="{{ skills }}/newpage.png" width="200" target="_blank">
+</a>
+
+See [Instructor's Solution](https://unco-bacs.org/bacs200/skills/newpage.png) for an example
+
+
+### article.png
+
+This screen shot shows a page that you create using a copy of the template with no further handmade modifications.
+
+<a href="{{ skills }}/article.png">
+    Click Here to see full size
+    <img src="{{ skills }}/article.png" width="200" target="_blank">
+</a>
+
+See [Instructor's Solution](https://unco-bacs.org/bacs200/skills/article.png) for an example
+
+
+### menu.png
+
+This screen shot shows a page that you create using a copy of the template with no further handmade modifications.
+
+<a href="{{ skills }}/menu.png">
+    Click Here to see full size
+    <img src="{{ skills }}/menu.png" width="200" target="_blank">
+</a>
+
+See [Instructor's Solution](https://unco-bacs.org/bacs200/skills/menu.png) for an example

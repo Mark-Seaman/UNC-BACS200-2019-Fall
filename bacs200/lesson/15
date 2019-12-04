@@ -1,0 +1,220 @@
+# Lesson 15 - Text & Color
+
+
+* UNC - BACS 200
+* Wednesday, Oct 2
+* Mark Seaman
+ 
+---
+
+## LEARN
+
+![](img/Bear_Logo.png)
+
+---
+
+### Review
+* Plagiarism
+* CSS Basics
+
+### Today
+* Practice CSS Properties
+* Zybooks - 4.1 CSS in HTML
+* CSS properties: Text & Color
+
+---
+
+### Seaman's Rules
+* Estimate the Learning Cost
+    * Add one day for every trick you do not know yet
+    * Implementing a trick you know requires a few minutes
+  
+---       
+
+## Plagiarism Incident
+* Lecture on Plagiarism
+* Several students have not yet come forward
+* You must take ownership for your responsibility
+* Cover up will be worse than the offense
+
+
+### ATTENTION NEEDED: Offenders
+* Several students are in violation of plagiarism
+* If you copied work from Aaron Vrbas this is you !
+
+
+### YOU MUST COMPLETE by Thursday
+* Admit to Plagiarism
+* Send apology to Aaron (cc: Mark)
+* Attribute your work to the value that you used 
+* Change your page to look different than Aaron's
+* Not completing these steps will put you in violation of the MCB standards of business conduct
+
+
+## Text Properties
+
+### Demo #15 - Text & Color
+* Run the code on [UNCO-BACS.org](https://unco-bacs.org/bacs200/demo/15)
+
+
+### Stylesheets
+* Linking a CSS
+* CSS Syntax
+* Text Properties
+
+
+### CSS Rule Set
+CSS syntax
+
+```css
+selector {
+    property: value;   /* one rule */
+    property: value;
+}
+
+```
+
+
+### CSS Rule Set
+Example Rule Set
+
+```css
+h1 {
+    font-family: serif;
+    font-size: 120%;
+}
+```
+
+
+### Hooking up CSS
+Link the Stylesheet to each HTML page
+
+```html
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+```
+
+
+### CSS Properties
+CSS Property Groups
+
+* Text
+* Color
+* Spacing
+* Borders
+
+
+### Text Properties
+* font-family
+* font-size
+* font-weight
+* text-align
+* text-shadow
+
+
+### font-family
+Inherited by all descendants
+
+```css
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+```
+
+
+### Size Units
+Units of size for values
+
+```
+20px - 20 pixels
+10pt - 10 points
+2em - twice the line height (M)
+50% - half the size
+```
+
+### font-size
+Multiple units
+
+```css
+p {
+    font-size: 12pt;  /* in points */
+    font-size: 150%;  /* parent element */
+    font-size: 1.5em;  /* M is line height */
+}
+```
+
+
+### font-weight
+Special font treatment
+
+```css
+p {
+    font-weight: 400;  /* normal */
+    font-weight: normal;  /* 400 */
+
+    font-weight: 700;  /* bold */
+    font-weight: bold;  /* 700 */
+
+    font-weight: lighter;  /* parent element */
+}
+```
+
+
+### text-align
+Where does the space go?
+
+```css
+p {
+    text-align: left;
+    text-align: center;
+    text-align: right;
+}
+```
+
+
+### text-shadow
+Give a 3D look
+
+```css
+h1 {
+    text-shadow: 2px 2px;
+}
+
+h2 {
+    text-shadow: -2px -2px 4px yellow;
+}
+```
+
+
+### font
+Shorthand font property
+
+```css
+p {
+    font: italic bold 16px Arial, sans-serif;
+    font: 120% Times;
+}
+```
+
+---
+
+## BUILD
+
+![](img/Bear_Logo.png)
+
+---
+
+
+### Practice CSS
+* Copy code from [CSS Demo Code](https://unco-bacs.org/bacs200/demo/15)
+* Create "bacs200/stylesheet.html"
+* Solve the problems
+
+
+
+

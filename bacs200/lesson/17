@@ -1,0 +1,148 @@
+# Lesson 17 - Page Layout
+
+* UNC - BACS 200
+* Monday, Oct 7
+* Mark Seaman
+ 
+---
+
+## LEARN
+
+![](img/Bear_Logo.png)
+
+---
+
+### Review
+* Skill #6 - Developer Tools
+* Project #6 - Student Home Page
+* CSS Properties
+    * Text
+    * Color
+    * Spacing
+    * Borders
+
+
+### Today
+* Reading - 4.3 Advanced Selectors
+* Skill #7 - New Page Template
+* Lesson #17 - Page Layout
+* Demo #17 - Page Layout Template
+
+
+---
+
+### Seaman's Rules
+* Rule #17 - Success is produced by sustained effort
+    * A burst of extra energy occasionally is not enough
+    * Understand what the minimum requirements are and always meet those
+  
+---
+
+## HTML Semantic Elements
+Why Semantic Elements?
+
+* Semantic HTML Elements let you organize the content of your page.
+
+
+### Semantic HTML Elements
+* Start with Basic Page Template
+* Add in Semantic Elements
+    * Header
+    * Main
+    * Footer
+
+
+### Basic HTML Template
+Add this content to index.html
+
+```html
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Learning HTML</title>
+    </head>
+    <body>
+    </body>
+</html>
+```
+
+
+### Page Layout Guide
+* Header
+* Main
+* Footer
+
+```html
+
+<body>
+    <header> ... </header>
+    <main> ... </main>
+    <footer> ... </footer>
+</body>
+
+```
+
+
+### Header Element
+* The header element defines a block at the top of the page
+
+```
+<body>
+    <header>
+        <img src="Bear.png"
+             alt="Bear Logo" style="float:right" width="200">
+        <h2>Your Name Title</h2>
+    </header>
+</body>
+```
+
+
+### Main Element
+
+* The main element defines bulk of the page content
+
+
+```
+<main>
+    <h1>My Home Page</h1>
+    <p>Paragraph</p>
+</main>
+```
+
+
+
+### Footer Element
+* The footer element defines bottom area of the page
+* Note the HTML entity for the copyright symbol "&amp;copy;"
+
+```html
+
+<footer>
+    <p>&copy; Copyright 2018 - Shrinking World Solutions</p>
+</footer>
+
+```
+
+
+### Demo #17 - 
+* Run the code on [UNCO-BACS.org](https://unco-bacs.org/bacs200/demo/17)
+
+
+### Validate your work
+* [https://validator.w3.org/](https://validator.w3.org/)
+
+
+
+---
+
+## BUILD
+
+![](img/Bear_Logo.png)
+
+---
+
+
+### Skill #7 - New Page Template
+* [Skill #7](/unc/bacs200/skills/07)
+

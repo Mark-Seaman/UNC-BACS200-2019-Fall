@@ -1,0 +1,66 @@
+# Project #7 - Wanted Poster
+
+This project teaches how to style an existing HTML file to get a specific look.  
+You will add a stylesheet to your page and set numerous properties to produce a 
+Wanted Poster.
+
+When you are done your poster will be reviewed to check for the ten top requirements.
+
+
+### Copy Wanted Template
+* [Wanted HTML](http://unco-bacs.org/bacs200/wanted.html)
+* Create "bacs200/wanted.html"
+
+
+### Hook Up Stylesheet
+* Link in a new stylesheet
+
+```
+<link rel="stylesheet" href="wanted.css">
+```
+
+
+### Body Properties
+* Set the font to "New Courier" or "Courier"
+* Set the basic font size to 24 pixels
+* Search the internet for a tile image that looks like paper
+* Set the entire to show a background image
+
+
+### Main Properties
+* Add a black border 1 pixel wide
+* Add a drop shadow to the border
+* Center the content of the main section
+* Set a style of 80% for the width of main
+* Set a max-width of 800px
+* Create a side bar with the "Wanted For" section
+
+
+### Header Properties
+* Set a dark brown background color
+* Create light gray foreground color
+
+
+### Footer Properties
+* Fix the hyperlink to point to the class web server
+* Fix the title to show your name
+
+
+### Image Property
+* Add a name and selfie
+* Center the image 
+* Add a 20 pixel white border
+
+
+### Requirements
+
+* Page exists at URL
+* Page is Valid HTML 
+* Page is Valid CSS
+* Stylesheet and overall appearance
+* Hyperlinks
+* Body
+* Header
+* Main
+* Footer
+* Image
