@@ -1,0 +1,36 @@
+# Skill #11 - Teach a Skill
+
+Skill Demonstration Challenge
+
+---
+
+## Instructions
+
+### Objective
+
+Demonstrate that you can apply the skills that were taught by your team members in Project #9.
+
+
+### Steps
+
+* Build a page "bacs200/demo.html"
+* Apply the skills that you learned about in Review #3.
+* Take a screen shot of your page and post it.
+* Login to the Sensei Homework Dashboard and view your work in the Skills section
+
+
+### Requirements
+
+* Screen shot "bacs200/skills/teach.png"
+
+
+## Demonstrate Your Skill
+
+### teach.png
+* This screen shot shows ...
+* 
+* <a href="{{ skills }}/teach.png">
+    Click Here to see full size
+    <img src="{{ skills }}/teach.png" width="200" target="_blank">
+</a>
+* See [Instructor's Solution](https://unco-bacs.org/bacs200/skills/teach.png) for an example

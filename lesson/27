@@ -1,0 +1,149 @@
+# Lesson 27 - Adobe Illustrator
+
+
+* UNC - BACS 200 - Lesson 27 
+* Wednesday, Oct 30
+* Mark Seaman
+ 
+---
+
+## LEARN
+
+![](img/Bear_Logo.png)
+
+---
+
+### Today
+* Reading - 3.7 HTML Developer Guidelines
+* Review #3 - Inspiration Page
+* Skill #10 - me.png, logo.svg
+* Project - No project this week (skills worth 10 points)
+
+---
+
+### Seaman's Rules
+* Rule #27 - Get feedback from customers
+    * Every project has a customer
+    * Get feedback weekly
+  
+---
+
+### Types of Images
+* Raster Images - Abobe Photoshop
+* Vector Images - Adobe Illustrator
+
+
+### Raster Images
+* Raster images contain a grid of pixels
+* Each pixel is an RGB value
+* Raster images get the "Blockies" when scaled
+* Cameras capture raster images
+
+
+### Vector Images
+* Vector Images are a set of shapes
+* They scale to any size
+* Artwork is designed by hand on the computer
+
+
+### Adobe Illustrator
+* Vector Graphics Tools
+* Scalable to any desire size
+* Often rendered as raster images
+
+
+---
+
+## BUILD
+
+![](img/Bear_Logo.png)
+
+---
+
+### Using Illustrator
+* Create artwork in Adobe Illustrator
+* New document with a web profile
+* Size 640x480 pixels
+* Set the Color mode to RGB
+* Set Raster effects to Screen (72 dpi)
+
+
+### Play with these tools
+
+* shape tool (defaults to "Rectangle Tool")
+* fill and stroke color
+* paintbrush tool
+* line segment tool
+* pen tool
+
+
+### Other Edits
+* Change the fill and stroke color the shapes
+* Experiment with different colors and gradients
+
+
+### Paintbrush tool
+- Try different colors
+- Weights
+- Arrowheads
+- Profiles
+
+
+### Line segment tool
+* Try different line types
+* Try  grids
+
+
+### Pen tool
+* Draw straight lines (click)
+* Draw curved lines (click and drag)
+* Add and remove anchor points
+
+
+### Save your Masterpiece
+* Save work using "File", "Export", "Save for the web (legacy)"
+* PNG file as Logo.png
+
+
+### Icons
+
+Review these sources of Icon artwork
+
+* [fontawesome.com](http://fontawesome.com)
+* [glyphicons.com](http://glyphicons.com)
+* [glyphish.com](http://glyphish.com)
+* [material.io/icons](http://material.io/icons)
+* [flaticon.com](http://flaticon.com)
+
+
+### Favicon
+* Create a new document with a web profile
+* Size of 64x64 pixels
+* Set the color mode to RGB and the Raster effects to Screen (72 dpi)
+* Using vector shapes, create a Favicon for your website.
+* "Save for the web" as a 16x16 pixel PNG file
+
+
+### Display the Art
+* Create page "logo.html"
+* Set the Favicon on your page
+* Add the logo to your header
+
+
+### Add Icon to Page
+* Add the icon to your HTML head section.
+
+```html
+<link rel="icon" href="myfavicon.ico">
+```
+
+
+### Display Logo in Header
+* Hook the image to your index.html page.
+
+```
+    <img src="Logo.png" alt="Logo.png" width="50%">
+```
+
+Experiment with sizing your image.
+

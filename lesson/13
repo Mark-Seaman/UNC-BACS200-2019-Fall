@@ -1,0 +1,101 @@
+# Lesson 13 - Test and Debug
+
+* UNC - BACS 200
+* Wednesday, Sep 25
+* Mark Seaman
+
+---
+
+## LEARN
+
+![](img/Bear_Logo.png)
+
+---
+
+### Review
+* Lesson #12 - Development Workflow
+* Skill #4 - URL Game
+* Project #5 - Study Guide
+
+
+### Today
+* Development Workflow
+* Skill #4 - URL Game
+* Project #5 - Study Guide
+    * List of Skills, Projects, Lessons
+    * Add appropriate info for each item
+
+---
+
+### Seaman's Rules
+* Rule #13 - Listen to the Pain
+    * Pain can be a great teacher
+    * It may indicate an issue that needs attention
+  
+---
+
+### Testing Your Code
+* Step 1 - Double-click the file
+* Step 2 - Deploy to web server and browse
+* Step 3 - Validate the HTML
+* Step 4 - Build a test page
+
+
+### Validate HTML 
+* Visit site https://validator.w3.org/
+* Bookmark the site on your bookmark bar
+
+
+### Invoke Validator with Your Page
+* To test https://unco-bacs.org/bacs200
+* https://validator.w3.org/nu/?doc=https://unco-bacs.org/bacs200/index.html
+* Fix the errors!
+
+
+### Create a test page
+* Make a page "bacs200/test.html"
+* Add links to all of your work
+* Add links to validate each page
+
+
+---
+
+## BUILD
+
+![](img/Bear_Logo.png)
+
+---
+
+### Skill #4 - URL Game
+* Complete before the exam
+
+
+### Project #5 - Study Guide (Lessons, Projects, Skills)
+* Complete before the exam
+* Build a page (bacs200/study_guide.html)
+* Add a table with links to each of the lessons and readings that were done
+* Add a table of links to each project
+* Add a table of skills demonstrated
+
+
+### Improve Your Home Page
+* Review all of your pages and make improvements
+* Skim all of the reading to make sure you understand it
+  
+        
+### Exam Prep
+* Finish the URL game
+* Build your study guide
+* Fix your home page so that it validates
+* Learn how to build a link to the validator that tests your home page
+
+
+### Exam #1
+* Use any resources including full internet
+* Take your time - must be completed on Friday, Sep 27
+* Do it from anywhere - Kepner 0090 will be open
+
+
+## See you next time
+
+

@@ -1,0 +1,83 @@
+# Lesson 6 - HTML Template
+
+* UNC - BACS 200
+* Monday, Sep 9
+* Mark Seaman
+
+---
+
+![](img/Bear_Logo.png)
+
+## LEARN
+
+---
+
+* Review
+    * Project #2 - My Hero
+    * Building web pages
+    * File Transfer
+    * Publish your page
+
+* Today
+    * Project #3 - Amusements Page
+    * Simple Page Example
+
+
+---
+
+### Seaman's Rules
+
+* Rule #6: Test everything you care about 
+    * If you don't test it then remove it  
+    * Testing is your primary concern
+    * Development proceeds at the speed of testing
+
+---
+
+### Project #2 - Inspire Page
+* Create a file on your computer
+* Add HTML code 
+* Example Code: [https://unco-bacs.org/bacs200/demo/04/inspire.html](https://unco-bacs.org/bacs200/demo/04/inspire.html)
+* [My Inspire Page](https://unco-bacs.org/bacs200/inspire.html)
+
+
+### Project #3 - Amusements Page
+* Just like Project #2
+* Create a page locally and upload it to your server
+
+---
+
+## BUILD
+
+![](img/Bear_Logo.png)
+
+---
+
+### Demo Server
+* See solutions to all projects
+* See demo code for each lesson
+* [https://unco-bacs.org/bacs200](https://unco-bacs.org/bacs200)
+
+
+### Development Loop
+* Select One Feature
+    * Edit
+    * Test locally
+    * Deploy to the web server
+    * Test remote
+
+
+### Project #2
+* Setup Bluehost
+* Setup Windows for Development
+* Edit your code (Documents/UNC_BACS_200/public_html/bacs200/index.html)
+* Setup Filezilla
+* Transfer the file
+* Test on Bluehost
+
+
+### See you next time
+
+---
+
+![](img/Bear3.png)

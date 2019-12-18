@@ -1,0 +1,120 @@
+# Project #1 - Bluehost Web Hosting
+
+## Goals
+
+The purpose of this project is to implement web hosting using a commercial Web Hosting Service Provider.
+
+First an account must be registered at Bluehost (or similar provider).
+
+Your domain is registered and shows up on your student dashboard.
+
+A WordPress application must be installed and configured.
+
+A profile page must have your student name, photo, and skills.
+
+### Grading
+
+This project will be graded in three steps
+
+Project #1 - Setup Web Hosting
+
+* **Part A - Sign up for Bluehost** - Due Mon, Aug 26 (graded on Tue, Aug 27)
+* **Part B - Publish a WordPress page** - Due Wed, Aug 28
+* **Part C - Create a profile page** - Due Fri, Aug 30
+
+
+---
+
+## Part A - Sign up for Bluehost - Due Mon, Aug 26
+
+### Sign up for Bluehost Web Hosting
+Register for web hosting
+
+![](img/bluehost-signup.jpg)
+
+
+### Bluehost Domain Setup
+Select a domain name to use.  You can also configure this later.
+
+![](img/bluehost-domain.jpg)
+
+
+### Bluehost Login
+Login to work on your website.
+
+![](img/bluehost-login.jpg)
+
+
+### Bluehost Portal
+Lots of things you can do.
+
+![](img/bluehost-portal.jpg)
+
+
+### Server URL
+Find the email that looks like...
+
+![](img/bluehost_info.png)
+
+
+### Register Your Server
+* Register your machine domain name on the Class Website
+* Verify that the machine is registered correctly
+* This URL is how all of your projects will be graded
+
+[Register Domain](https://shrinking-world.com/unc/bacs200)
+
+
+## Part B - Publish WordPress page - Due Wed, Aug 28
+
+
+### Configure your WordPress blog
+* Login as Admin to your Bluehost Word Press site
+* Setup the site title
+* Create About the Author page
+* Select a visual theme
+
+
+## Part C - Create a profile page - Due Fri, Aug 30
+
+### Your Profile Page
+* Create a new page
+* "Your name" Profile
+* Profile picture
+* Your top skills - what are you selling
+* Skills you are developing - what will you sell
+* Aspirations - career goals
+
+
+### Test your page
+* Find your dashboard page
+* Follow the link to your web site
+* 404 or Page loads
+
+
+### Grading your Profile Page
+* I will grade your website Saturday, Aug 31
+* If your page produces a 404 it is not published
+* Monday, students will review your page content
+
+
+### Getting Help
+* You work on the project
+* If you get stuck for 10 minutes - raise a flag
+* I will help you until the end of class
+
+
+---
+
+## Requirements
+
+* Web Server is properly registered
+* Page appears at correct URL
+* Coming Soon message has been replace with real content
+* Profile Page has name and photo
+* Marketing content tells about author's skills
+* Title is set properly on the browser tab
+* Page has appropriate headline
+* Image is properly displayed
+* Text content is properly formatted
+* Place contains valid HTML

@@ -1,0 +1,35 @@
+# Skill # - 
+
+Skill Demonstration Challenge
+
+---
+
+## Instructions
+
+### Objective
+
+Demonstrate understanding of 
+
+* 
+
+
+### Steps
+
+* Login to the Sensei Homework Dashboard and view your work in the Skills section
+
+
+### Requirements
+
+* Screen shot "bacs200/skills/xxx.png"
+
+
+## Demonstrate Your Skill
+
+### xxx.png
+* This screen shot shows ...
+* 
+* <a href="{{ skills }}/xxx.png">
+    Click Here to see full size
+    <img src="{{ skills }}/xxx.png" width="200" target="_blank">
+</a>
+* See [Instructor's Solution](https://unco-bacs.org/bacs200/skills/xxx.png) for an example

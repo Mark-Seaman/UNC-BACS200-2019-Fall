@@ -1,0 +1,107 @@
+# [Project #8 - TED Talks with Bootstrap](/unc/bacs200/project/08)
+
+
+## Goal
+
+* Learn how to curate internet content
+
+### Description
+
+This project will teach you how to curate information on the internet.  This 
+gives you a professional presence and a voice.
+
+Curating content is an essential part of the new literacy required by businesses.  
+This skill will make you attractive to any business.
+
+There are distinct steps that you must go through to be a good curator.
+
+
+### Curating Summary
+
+* Selection - Pick the content of subjects that you care about.  Over time you 
+will become a recognized expert in this subject matter.
+* Summary - Capture the big ideas from the selected topic and write a 
+report for others.  Include the following items:
+    * Title of topic (write a compelling headline)
+    * Author (recognize them for producing good work)
+    * Photo of author or topic (add appeal to your page)
+    * Link to original content
+    * Big idea - one sentence intro
+    * Three subtopics or supporting ideas (show as bullet list)
+    * Why you should care about this topic (this is your sales pitch)
+    * Learn More - links to three related topics
+* Publication - Post the article on your website.  Think about how to publicize 
+your review summary.  Can you contact the author or leave comments on their blog?   
+The goal of curating is to build a professional presence and make others aware 
+that you are interested in specific topics.  Successful curation will end in 
+collaboration of some kind.  Do not neglect this part.
+* Sustainable Contribution - Each topic that you post should be a stepping-stone 
+to somewhere. Where would you like to go next?  How does this topic lead to follow-on 
+topics that interest you?  Every publication should end by thinking about what to do next. 
+
+
+### Professional Blogging
+
+Blogging is the fastest way that you can be a recognized expert.   
+A successful blogger should write at least 10 articles about subjects 
+that you truly care about.   Follow the formula of steps outlined here 
+and you will be able to claim that you are the author of your own blog.   
+This will look extremely good in a job interview.
+
+Note:  If you are not publishing on your blog weekly do not show dates on 
+your articles.  This may make your material look old and uninteresting to 
+potential readers.  If you are publishing new content weekly then retain 
+the dates to show how fresh your content is.
+
+If your goal is to build professional credibility then start by hitting the 
+ten postings threshold as quickly as possible. Most blogs never get to that 
+level and many authors run out of energy after 2-3 articles.  Push for getting 
+ten things done and then you can decide if you want to publish more in the future.
+
+
+## Requirements
+
+### Business Requirements
+
+* Content selection (five topics)
+    * Select three [TED talks](https://www.ted.com)
+    * Select one RSA animation from [RSA Animate](https://www.thersa.org/discover/videos/rsa-animate)
+    * Select one [Extra Credits History](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5Aq7g4bil7bnGi0A8gTsawu) lesson
+* Summary of content (each article)
+    * Title - of topic
+    * Author
+    * Photo of author or topic
+    * Link to original content
+    * Summary
+        * Big idea - one sentence intro
+        * Three subtopics showing supporting ideas
+        * Why this applies or why you should care
+    * Learn More - links to three related topics
+
+### Technical Requirements
+
+* Page learn.html
+* HTML structure (semantic elements, tabs)
+* HTML & CSS validates
+* Bootstrap
+    * Use bootstrap to set style of page
+    * Bootstrap stylesheet with customizations
+    * Tabs for TED and Animations
+    * Cards for each article (3 TED, 2 Animations)
+    * Wildcard (use some specific bootstrap component of your choice)
+* Home page
+    * Add link to Project #8 page and link for validation
+
+### Scorecard
+
+* Content selection  (3 TED, 2 Animations)
+* Title, Author, Photo, Link
+* Big ideas & Supporting ideas
+* Learn more
+* Appearance and presentation
+* Page at “learn.html"
+* Bootstrap style 
+* Bootstrap components (tabs, cards, wildcard)
+* HTML structure
+* Valid HTML & CSS
+

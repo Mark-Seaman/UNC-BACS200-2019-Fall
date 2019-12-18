@@ -1,0 +1,232 @@
+# Lesson 18 - Page Structure
+
+* UNC - BACS 200
+* Wednesday, Oct 9
+* Mark Seaman
+ 
+---
+
+## LEARN
+
+![](img/Bear_Logo.png)
+
+---
+
+### Review
+* CSS Properties
+    * Text
+    * Color
+    * Spacing
+    * Borders
+* Semantic HTML Elements
+    * header
+    * main
+    * footer
+* Skill #7 - New Page Template
+
+
+### Today
+* Reading - 4.4 Common Properties
+* Lesson #18 - Page Structure
+
+
+---
+
+### Seaman's Rules
+* Rule #18 - If you cannot repeat it then it is not working yet
+    * When learning something repeat it multiple times
+    * Practice creates neural pathways
+  
+---
+
+
+### Semantic HTML Elements
+* Start with Basic Page Template
+* Add in Semantic Elements
+    * Header
+    * Main
+    * Footer
+
+
+### Reusable HTML Template
+* Create a template for new pages
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>__TITLE__</title>
+        <link rel="stylesheet" href="theme.css">
+    </head>
+
+    <body>
+
+        <header>
+            <img src="Bear_Logo.png" alt="Bear Logo" style="float:right" width="200">
+            <h1>__TITLE__</h1>
+        </header>
+
+        <main>
+            ... 
+        </main>
+
+        <footer>
+            <p>&copy; Copyright 2018 - Me, MySelf, and I</p>
+        </footer>
+
+    </body>
+    
+</html>
+```
+
+
+### section
+* Area of the web page with special treatment
+* Works with CSS to have special appearance of behavior
+
+```html
+
+<main>
+    <section id="table-of-contents"> ... </section>
+    <section id="inventory"> ... </section>
+    <section id="summary"> ... </section>
+</main>
+
+```
+
+
+### article
+* Design a useful article layout
+
+```html
+
+<article>
+    <h2>Article Headline</h2>
+    <p>Text</p>
+    <p>More Text</p>
+    <figure>...</figure>
+</article>
+
+```
+
+
+### aside
+* Design a useful sidebar layout
+
+```html
+
+<aside>
+    <h3>Article Headline</h3>
+    <blockquote>Text</blockquote>
+    <p>More Text</p>
+</aside>
+
+```
+
+
+### figure
+* Images with captions
+
+```html
+
+<figure id="monkeys">
+    <img src="monkeys.jpg" alt="monkeys">
+    <figcaption>Figure 1: Monkeys in Trees</figcaption>
+</figure>
+
+```
+
+
+### time
+* Used for showing time (helps with parsing)
+* Publication dates on articles
+
+```html
+
+<time datetime="2018-02-02" pubdate="false">Today</time>
+
+```
+
+
+### HTML id Attributes
+* Set id on any element
+* Link href uses #id-name
+
+```html
+
+<h2 id="article-1">
+
+<a href="#article-1">Winter Forecast</a>
+
+```
+
+
+### HTML id Attributes
+* Set id on any element
+* Link href uses #id-name
+
+```html
+
+<figure id="monkeys">
+
+<a href="#monkeys">Learn about monkeys</a>
+
+```
+
+
+### Page Structure in "main"
+
+```html
+<main>
+
+    <aside>
+        <h2>Table of contents</h2>
+        <ul>
+            <li>Topic 1</li>
+            <li>Topic 2</li>
+        </ul>
+    </aside>
+
+    <section>
+        <article id="article-1">
+            <h2>Article 1</h2>
+            <p>Text for topic 1</p>
+        </article>
+
+        <article id="article-2">
+            <h2>Article 2</h2>
+            <p>Text for topic 2</p>
+        </article>
+    </section>
+
+</main>
+```
+
+
+### Demo #18 - Page Structure
+* Run the code on [Demo #18 - newpage.html](https://unco-bacs.org/bacs200/demo/18/newpage.html)
+* Run the code on [Demo #18 - article.html](https://unco-bacs.org/bacs200/demo/18/article.html)
+
+
+---
+
+## BUILD
+
+![](img/Bear_Logo.png)
+
+---
+
+
+### Skill #7 - New Page Template
+* [Skill #7](/unc/bacs200/skills/07)
+* Create a file "bacs200/newpage.html" for new basic pages
+* Create a file "bacs200/article.html" for new blog pages
+* Capture two screen shots
+
+
+### Validate your work
+* [https://validator.w3.org/](https://validator.w3.org/)
+
+

@@ -1,0 +1,119 @@
+# Lesson 7 - Development Skills
+
+* UNC - BACS 200
+* Wednesday, Sep 11
+* Mark Seaman
+
+---
+
+![](img/Bear_Logo.png)
+
+## LEARN
+
+![](img/Bear_Logo.png)
+
+---
+
+* Review
+    * Project #3 - Amusements Page
+    * Simple Page Example
+
+* Today
+    * Basic Page Template
+    * Visible Elements
+        * h1, h2, h3
+        * p, img, a
+        * ul, li
+    * Complete page
+    * Copying code from websites
+
+---
+
+### Seaman's Rules
+
+* Rule #7: Solving problems involves learning and doing 
+    * Each time it gets easier
+    * One day to learn a trick
+    * One hour to apply a trick
+
+---
+
+### Page Template
+* [Sample Page](https://unco-bacs.org/bacs200/demo/07/index.html)
+
+
+### Development Skills
+* A lot of information
+* Some students are feeling overwhelmed
+* What you do this week is critical
+* Today we will focus on applying the skills
+
+
+### Skill #1 - Web Hosting
+* Sign Up for Bluehost
+* Register your domain with Sensei Server
+
+
+### Skill #2 - Setup Filezilla
+* Site Manager - Bluehost connection
+* Directories set properly
+* Transfer files to correct place on server
+
+
+### Skill #3 - Windows Setup
+* Show file extensions
+* Create a folder (Documents/UNC_BACS_200/public_html)
+
+
+### Skill #4 - Editing Code
+* Run Brackets
+* Create File
+* Open File
+* Modify Code
+
+
+### Skill #5 - Test Code with Browser
+* Switch to Firefox
+* Double-click on HTML file
+* View HTML file in Browser
+* View Source Code for page
+* Copy source code to new file
+
+
+### Skill #6 - Basic HTML Page
+* Create HTML files in directory
+* HTML Page Template
+* HTML tags:  h1, h2, p, ul, li, img, a
+
+
+---
+
+## BUILD
+
+![](img/Bear_Logo.png)
+
+---
+
+### Demonstrate all 6 Skills
+* The proof of each skill will be a screen shot showing the skill on your computer
+* View [My Page](https://unco-bacs.org/bacs200/skills/index.html)
+to see how it should look
+* Copy my page onto your computer
+* Include your own screen shots
+
+
+### Transfer these files to Bluehost 
+* Demonstrate Skill #1 before moving to Skill #2
+* This is part of Project #3
+* It is proof that you have mastered each skill
+
+
+### Test the Page at Bluehost
+* Visit YOUR_DOMAIN/bacs200/skills/index.html
+
+
+### See you next time
+
+---
+
+![](img/Bear3.png)

@@ -1,0 +1,175 @@
+# Lesson 14 - Using Stylesheets
+
+
+* UNC - BACS 200
+* Monday, Sep 30
+* Mark Seaman
+ 
+---
+
+## LEARN
+
+![](img/Bear_Logo.png)
+
+---
+
+### Review
+* Zybooks reading - Late policy
+* Skill #4 - URL Game
+* Project #5 - Study Guide - Due Today
+* HTML Exam
+
+
+### Exam Summary
+
+![Exam 1 Statistics](img/exam1.png)
+
+
+### Today
+* Skill #5 - HTML Validator
+* Project #6 - Not yet published
+
+
+---
+
+### Seaman's Rules
+* Rule #15 - Turn objectives into Milestones
+    * Break every big tasks into 3-4 smaller tasks
+    * Granularity of 1 hour
+  
+---
+
+## Ethics
+* Why do people cheat?
+
+
+### Risk
+* risk = expected outcome * likelihood
+
+
+### Cheating makes you a cheater
+* Moral corruption & physiological habits
+* Inevitable conclusion
+* Addictive behavior
+* Enlightened self-interest
+
+
+### Modern Reality
+* Constant surveillance
+* Data logs every action
+* Powerful people have access to your data
+
+
+### Technology makes it easy
+* Dangerous temptation is always there
+* You must remember the consequence and likelihood of discovery
+
+
+### The Mom Rule
+* Mindset - Everything you do will be published in a newspaper article that your mom will read.
+* Everything will come to light eventually
+
+
+### Personal Story
+* Several lives in ruins
+
+
+### MCB take Ethics Seriously
+* Consequences for Students Cheating
+    * zero on assignment
+    * flunk the class
+    * eliminated from MCB
+    
+
+### BACS 200 Ground Rules
+* Exams - No help from other students, Other resources are OK
+* Projects 
+    - Collaboration is good
+    - Plagiarism is unacceptable
+    
+
+### Plagiarism
+* Publishing someone else's work as your own
+* Will end your career path
+
+
+### BACS 200 
+* Own up to your responsibility
+* Contact me TODAY with details
+* I will evaluate your situation and decide on course of action
+* Anyone not coming forward will be actively held accountable
+
+
+## Stylesheets
+
+### Stylesheets
+* Linking a CSS
+* CSS Syntax
+* Text Properties
+
+
+### CSS Rule Set
+CSS syntax
+
+```css
+selector {
+    property: value;   /* one rule */
+    property: value;
+}
+
+```
+
+
+### CSS Rule Set
+Example Rule Set
+
+```css
+h1 {
+    font-family: serif;
+    font-size: 120%;
+}
+```
+
+
+### Hooking up CSS
+Link the Stylesheet to each HTML page
+
+```html
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+```
+
+
+### CSS Properties
+CSS Property Groups
+
+* Text
+* Color
+* Spacing
+* Borders
+
+
+---
+
+## BUILD
+
+![](img/Bear_Logo.png)
+
+---
+
+
+### Skill #5 - Validate HTML
+* [Skill #5 - Validate HTML](/unc/bacs350/skills/05)
+
+
+### Project #5 - Study Guide
+* Finish project today
+* Will be graded tomorrow
+
+
+### Update Your Home Page
+* Add a stylesheet to your home page at "bacs200/index.html"
+* Add a CSS file "bacs200/style.css"
+* Make the "h1" blue
+* Make the "li" green

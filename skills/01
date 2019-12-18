@@ -1,0 +1,70 @@
+# Skill #1 - Web Hosting
+
+Skill Demonstration Challenge
+
+---
+
+## Instructions
+
+### Objective
+
+Demonstrate web hosting using Bluehost
+
+* Sign up for [Bluehost](http://bluehost.com) server account
+* Register a custom domain at Bluehost (optional)
+* Setup WordPress blog
+* Create user profile page (with photo)
+
+
+### Steps
+
+* Login to the Bluehost Control panel
+* Go to the Advanced tab
+
+
+### Requirements
+
+* Screen shot "bacs200/skills/xxx.png"
+
+### Test Your Work
+* Create a page for your skills "bacs200/skills/index.html"
+* Include content from [Skills Index](https://unco-bacs.org/bacs200/skills/index.html)
+* Go to the [Sensei Page](/unc/bacs200)
+* Click on the link to the skills page
+* Create this page in your skills folder
+
+
+## Demonstrate Your Skill
+
+### bluehost.png
+
+This screen shot is proof of skill.  It shows the following ...
+
+* Properly registered account at Bluehost
+* Advanced settings of Bluehost
+* Unique user ID and domain for my website
+* Screen shot can be uploaded to the correct location
+* Ability to create a screen shot with the correct name
+
+<a href="{{ skills }}/bluehost.png">
+    Click Here to see full size
+    <img src="{{ skills }}/bluehost.png" width="200" target="_blank">
+</a>
+
+See [Instructor's Solution](https://unco-bacs.org/bacs200/skills/bluehost.png) for an example
+
+
+### wordpress.png
+
+* WordPress Profile Page
+* WordPress configuration
+
+<a href="{{ skills }}/wordpress.png">
+    Click Here to see full size
+    <img src="{{ skills }}/wordpress.png" width="200" target="_blank">
+</a>
+
+
+See [Instructor's Solution](https://unco-bacs.org/bacs200/skills/wordpress.png) for an example
+
+

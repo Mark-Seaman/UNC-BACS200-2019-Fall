@@ -1,0 +1,41 @@
+# Skill Demonstration Challenge
+
+Proof by screen shot
+
+This class requires you to master a number of different skills
+
+---
+
+* [Skill #1 - Web Hosting](01)
+    * Bluehost setup
+    * Screenshot
+    * Publishing to a URL
+    
+* [Skill #2 - Filezilla](02)
+    * Filezilla login to Bluehost
+    * Filezilla Directory setup
+    * Create a folder and index file
+    * Publish to a specific URL
+    
+* [Skill #3 - Brackets](03)
+    * Brackets is pinned to Start Bar
+    * Open Folder is set up
+    * Beatify extension is active
+
+* [Skill #4 - URL Game](04)
+    * Solve URL puzzles
+    * Post screen shot of completed game
+
+* [Skill #5 - HTML Validator](05)
+    * Validate "bacs200/index.html"
+    * Build validator link on Home Page
+
+
+
+### Test Your Work
+* Create a page for your skills "bacs200/skills/index.html"
+* Include content from [Skills Index](https://unco-bacs.org/bacs200/skills/index.html)
+* Go to the [Sensei Page](/unc/bacs200)
+* Click on the link to the skills page
+* Create this page in your skills folder
+
